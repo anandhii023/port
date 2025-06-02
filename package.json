@@ -16,5 +16,8 @@
     "url": "https://github.com/anandhii023/portfolio/issues"
   },
   "homepage": "https://github.com/anandhii023/portfolio#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
 }
