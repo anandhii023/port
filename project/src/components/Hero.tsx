@@ -77,7 +77,7 @@ const Hero: React.FC = () => {
                 transition={{ duration: 0.7 }}
                 className="text-3xl md:text-4xl font-bold mb-4"
               >
-                Hi, I'm <span className="gradient-text">Anandhalakshmi</span>
+                Hi, I'm <span className="gradient-text">Anandhalakshmi E</span>
               </motion.h1>
 
               <div className="h-20"> {/* Fixed height container for roles */}
